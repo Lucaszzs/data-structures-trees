@@ -1,7 +1,7 @@
 /**
- * Nome:
- * RGA:
- * email:
+ * Nome: Lucas Fernando Geremias de Paula 
+ * RGA: 2020.0571.030-7 
+ * email: lucas_fernando@ufms.br 
  * Data de criação:
  */
 
